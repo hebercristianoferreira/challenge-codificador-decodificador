@@ -1,0 +1,156 @@
+
+header{
+    text-align: center;
+    color:#0A3871 ;
+    font-size: 20px;
+    
+}
+
+body{
+    background: rgb(169, 191, 240);
+    
+   
+}
+
+.conteudo{
+    margin-top:40px;
+    display:flex;
+   
+}
+.textoCodificar{
+    display: flex;
+    margin-left:400px;
+    border-radius: 5PX;
+    font-size: 20px;
+}
+
+.textoCodificado{
+    display: flex;
+    margin-left: 50px;
+    border-radius: 5px;
+    font-size: 20px;
+
+}  
+
+.botao-principal{
+	display:flex;
+    margin-top: px;
+    margin-left:450px;
+    padding: 10px;
+  
+}
+
+.btnCripto{
+    background-color: #0A3871;
+    color:white;
+    margin-left: 15px;
+    border-radius: 15px;
+    padding: 15px;
+    font-size: 20px;
+}
+
+.btnCripto:hover{
+    cursor: pointer;
+}
+
+.btnCripto:active{
+    transform: scale(0.7);
+}
+
+.btnDescri{
+    background-color: #0A3871;
+    color:white;
+    margin-left: 15px;
+    border-radius: 15px;
+    padding: 15px;
+    font-size: 20px;
+}
+
+
+.btnDescri:hover{
+    cursor: pointer;
+}
+
+.btnDescri:active{
+    transform: scale(0.7);
+}
+
+
+.btnLimpar1{
+    background-color: #0A3871;
+    color:white;
+    margin-left: 15px;
+    border-radius: 15px;
+    padding: 15px;
+    font-size: 20px;
+}
+
+
+.btnLimpar1:hover{
+    cursor: pointer;
+}
+
+.btnLimpar1:active{
+    transform: scale(0.7);
+}
+
+
+.informacao{
+    font-size: 20px;
+    margin-left: 400px;
+    font-weight: bold;
+    margin-top: 15px;
+}
+
+.botao-secundario{
+    display:flex;
+    margin-top: 80px;
+    margin-left:200px;
+    padding: 10px;
+}
+
+.btnCopiar{
+    background-color: #0A3871;
+    color:white;
+    margin-left: 15px;
+    border-radius: 15px;
+    padding: 15px;
+    font-size: 20px;
+}
+
+
+.btnCopiar:hover{
+    cursor: pointer;
+}
+
+.btnCopiar:active{
+    transform: scale(0.7);
+}
+
+.btnLimpar2{
+    background-color: #0A3871;
+    color:white;
+    margin-left: 15px;
+    border-radius: 15px;
+    padding: 15px;
+    font-size: 20px;
+}
+
+.btnlimpar2:hover{
+    cursor: pointer;
+}
+
+.btnLimpar2:active{
+    transform: scale(0.7);
+}
+
+
+footer{
+    text-align: center;
+    margin-top: 80px;
+    font-size: 15;
+
+}
+
+
+
